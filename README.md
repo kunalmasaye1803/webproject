@@ -1,2 +1,1 @@
-# webproject
-movies watcher
+# movie-app
